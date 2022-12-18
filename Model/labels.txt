@@ -1,0 +1,7 @@
+0 Bad
+1 Call Me
+2 Good Job
+3 Loser
+4 OK
+5 Peace
+6 Rock
